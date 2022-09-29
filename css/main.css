@@ -1,4 +1,12 @@
 body{
     background-color: aqua;
+}
+p{
+    color: lawngreen;
     border: 1px solid salmon;
+}
+h2{
+    font-weight: bold;
+    font-size: 50px;
+    text-transform: uppercase;
 }
