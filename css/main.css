@@ -4,6 +4,7 @@ body{
 p{
     color: lawngreen;
     border: 1px solid salmon;
+    background-color: brown;
 }
 h2{
     font-weight: bold;
