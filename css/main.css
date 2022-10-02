@@ -27,4 +27,5 @@ h2{
 .button_text{
     color: cadetblue;
     font-weight: bold;
+    text-transform: uppercase;
 }
